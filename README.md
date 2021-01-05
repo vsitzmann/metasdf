@@ -1,7 +1,7 @@
 # MetaSDF: Meta-learning Signed Distance Functions
 ### [Project Page](https://vsitzmann.github.io/metasdf) | [Paper](https://arxiv.org/abs/2006.09662) | [Data]()
 [Vincent Sitzmann](https://vsitzmann.github.io/)\*,
-[Eric Ryan Chan](http://alexanderbergman7.github.io),
+[Eric Ryan Chan](http://alexanderbergman7.github.io)\*,
 [Richard Tucker](),
 [Noah Snavely](http://www.cs.cornell.edu/~snavely/)<br>
 [Gordon Wetzstein](https://stanford.edu/~gordonwz/)<br>
@@ -17,7 +17,7 @@ with other types of neural implicit representations - such as our work "SIREN"!
 
 We show you how in our Colab notebook:
 
-[![Explore MetaSDF in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vsitzmann/metasdf/blob/master/metasdf.ipynb)<br>
+[![Explore MetaSDF in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vsitzmann/metasdf/blob/master/MetaSDF.ipynb)<br>
 
 ## DeepSDF
 A large part of this codebase (directory "3D") is based on the code from the terrific paper "DeepSDF" - check them out!
