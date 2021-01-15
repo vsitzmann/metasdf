@@ -53,7 +53,7 @@ If training is interupted, pass the flag `--load` flag to continue training from
 
 You should begin seeing printouts of loss, with a summary at every epoch. Checkpoints and Tensorboard summaries are saved to the `'output_dir'` directory, as defined in your curriculum. We log raw loss, which is either the composite loss or L1 loss, depending on your experiment definition, as well as a 'Misclassified Percentage'. The 'Misclassified Percentage' is the percentage of samples that the model incorrectly classified as inside or outside the mesh.
 
-**Recontructing Meshes**
+**Reconstructing Meshes**
 
 After training a model, recontruct some meshes using
 
